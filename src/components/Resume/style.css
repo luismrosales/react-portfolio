@@ -1,0 +1,10 @@
+.soon {
+  height: 20rem;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  min-width: 40%;
+  border-radius: 2rem;
+  filter: brightness(85%);
+  margin-top: 2rem;
+}
