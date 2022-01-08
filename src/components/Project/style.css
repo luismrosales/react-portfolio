@@ -1,0 +1,25 @@
+.flex-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+}
+
+img {
+  height: 10rem;
+}
+.p1 {
+  margin: 2rem auto;
+}
+
+img:hover {
+  filter: brightness(50%);
+  cursor: pointer;
+  transition: 0.6s ease;
+}
+
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}

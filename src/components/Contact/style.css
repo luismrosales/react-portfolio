@@ -1,0 +1,28 @@
+.bi {
+  color: black;
+  font-size: 2rem;
+  cursor: pointer;
+}
+.contact {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.bi:hover {
+  color: whitesmoke;
+  transition: 0.6s;
+}
+
+.c1 {
+  text-align: center;
+}
+
+.border {
+  border-top: 3px solid rgba(255, 255, 255, 0.3);
+  width: 15rem;
+  margin: 0 auto;
+}
+
+.in {
+  margin: 2rem 0;
+}
