@@ -6,8 +6,8 @@ function Contact() {
       <h1 className="c1">Contact me</h1>
       <div className="border"></div>
       <p className="in">
-        Get in touch with me, send me an email, a text or feel free to give me a
-        call.
+        Get in touch with me, send me an Email, a message on Linkedin, Github or
+        give me a phone call.
       </p>
 
       <div className="contact">
